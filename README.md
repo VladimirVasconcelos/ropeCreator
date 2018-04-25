@@ -1,2 +1,2 @@
 # ropeCreator
-Unity Rope Creation Script 2D and 3D version
+Unity 3D Rope Creation Script 2D version
